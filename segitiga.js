@@ -3,7 +3,6 @@ function hitungKelilingSegitiga(a, b, c) {
     return keliling;
 }
 
-// Contoh penggunaan fungsi untuk menghitung keliling segitiga
 var sisiA = 4;
 var sisiB = 5;
 var sisiC = 6;
